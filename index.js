@@ -1,1 +1,3 @@
-console.log("Code your solution!")
+console.log("Code your solution!");
+
+const List = document.querySelector();
